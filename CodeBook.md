@@ -11,9 +11,9 @@ Activities:
 - Training data tables: x_train,  y_train, subject_train
 - Test data tables: x_test, y_test, subject_test
 - Tables merged : data_merge(x), y_merge, subject_merge
-- Correct names: features and Index helper verctor
-- Clean Data Merged: information from: subject,activities and data is merged in clean_data_merge
-- **tidy**: Is a table resulted of the averdage of each variable. 
+- Correct names: features and Index helper verctors used for asign the names
+- Clean Data Merged: information from: subject,activities and data is merged in **clean_merge**
+- **tidy**: Is a table resulted of the average of each variable. 
 
 #Description
 - Please Unzip the data and set your working directory as: setwd("~/Documents/Coursera/UCI HAR Dataset")
